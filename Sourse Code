@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int x = 3;
+    float y = 5.4;
+    int k;
+    k = 9 / 10 + x - y;
+    printf("OUTPUT = %d", k);
+    return 0;
+}
+
+
+1.output of the program
+OUTPUT =-2
